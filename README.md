@@ -1,6 +1,6 @@
 
 
- # You can find more about me <a href="konkos.github.io" target="_blank">here</a>
+ # You can find more about me <a href="[konkos.github.io](https://konkos.github.io/)" target="_blank">here</a>
 
 
 [![konkos's GitHub stats](https://github-readme-stats.vercel.app/api?username=konkos&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

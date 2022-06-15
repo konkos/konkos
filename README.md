@@ -1,6 +1,6 @@
 
-<div>
-You can find more about me at konkos.github.io
+<div style="color:white; background-color:black;">
+  You can find more about me at <a href="konkos.github.io" target="_blank">my site</a>
 </div>
 
 <div>
